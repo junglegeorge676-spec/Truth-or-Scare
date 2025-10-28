@@ -1,5 +1,5 @@
 # Truth-or-Scare
-Truth or dare gaem with a Halloween twist
+Truth or dare game with a Halloween twist
 [index.html](https://github.com/user-attachments/files/23195414/index.html)
 
 <!doctype html>
